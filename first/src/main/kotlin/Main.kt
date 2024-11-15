@@ -23,6 +23,12 @@ fun main() {
     val char: Char = '@'
     val boolean : Boolean = true
 
+    // convertendo dados
+    val mediaDePreco : Int = 22
+    val respost = mediaDePreco.toDouble()
+    println(respost)
+    println(respost::class)
+
     //:: class para mostrar o tipo de dado
 
     println(marca::class)
@@ -36,5 +42,6 @@ fun main() {
     println(result)*/
 
     Desafio01().messager()
+    Convert().Conversao()
 
 }
