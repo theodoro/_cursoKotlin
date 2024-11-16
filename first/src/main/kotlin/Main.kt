@@ -8,16 +8,20 @@ fun main() {
     val byte: Byte = 8
 
     val long: Long = 12345678999
+    val numBig: Long = 1_000_000_00
     println(name)
     println(version)
     println(byte)
     println(long)
+    println(numBig)
     // VAL é uma variavel imutavel
     // Declarando o tipo de variavel
 
     var preco: Double = 1.99
     val idade: Int = 38
     val marca: String = "Android"
+
+    println("Minha idade é: " + idade)
 
 
     val char: Char = '@'
@@ -43,5 +47,6 @@ fun main() {
 
     Desafio01().messager()
     Convert().Conversao()
+    PlayString().playChar()
 
 }
