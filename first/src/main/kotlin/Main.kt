@@ -50,5 +50,6 @@ fun main() {
     PlayString().playChar()
     Message().writeMessage()
     Desafio02().challenge02()
+    Condicao().condicao()
 
 }
