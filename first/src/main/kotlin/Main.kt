@@ -48,5 +48,7 @@ fun main() {
     Desafio01().messager()
     Convert().Conversao()
     PlayString().playChar()
+    Message().writeMessage()
+    Desafio02().challenge02()
 
 }
