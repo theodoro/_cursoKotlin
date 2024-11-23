@@ -52,6 +52,8 @@ fun main() {
     Desafio02().challenge02()
     Condicao().condicao()*/
 
-    Entradas().inputUser();
+    //Entradas().inputUser();
+
+    Entrada2().inputUser2()
 
 }
