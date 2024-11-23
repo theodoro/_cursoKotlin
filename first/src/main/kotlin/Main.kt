@@ -1,7 +1,7 @@
 import javax.swing.text.StyledEditorKit.BoldAction
 
 fun main() {
-    println("Hello World!")
+ /*   println("Hello World!")
 
     var name = "Ubuntu"
     var version = "Estou usando a versão 24.04 LTS"
@@ -50,6 +50,8 @@ fun main() {
     PlayString().playChar()
     Message().writeMessage()
     Desafio02().challenge02()
-    Condicao().condicao()
+    Condicao().condicao()*/
+
+    Entradas().inputUser();
 
 }
